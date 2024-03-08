@@ -15,7 +15,7 @@ This is a simple yet powerful Pomodoro timer app built using React Native. The P
 ![Pomodoro option](assets/25.jpg)
 ![Pomodoro option](assets/25.jpg) -->
 
-<div class="flex-container" style="display: flex; justify-content: space-between; padding: 0 3rem; gap: 1rem">
+<div class="flex-container" style="display: flex; justify-content: space-between; padding: 0 4rem; gap: 1rem">
     <img src="assets/25.jpg" alt="Pomodoro option" style="width: 33%; ">
     <img src="assets/5.jpg" alt="Short option" style="width: 33%;">
     <img src="assets/15.jpg" alt="Large option" style="width: 33%;">
